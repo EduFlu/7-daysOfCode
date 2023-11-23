@@ -1,0 +1,19 @@
+.rodape {
+    text-align: center;
+    background-color: var(--cor-de-fundo-cinza);
+    padding: 96px 0 96px 0; 
+}
+
+.email {
+    border: solid 1px;
+    border-radius: 8px;
+    border-color: var(--cor-da--borda);
+    margin: 40px 0 40px 0;
+    padding: 12px 10rem 12px 12px;
+    margin-right: 12px;
+}
+
+.copyright {
+    font-weight: 400;
+    color: var(--cor-cinza-claro);
+}

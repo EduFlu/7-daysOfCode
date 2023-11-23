@@ -1,0 +1,20 @@
+@import url(./styles.css);
+@import url(./banner.css);
+@import url(./header.css);
+
+:root {
+    --cor-cinza: #667085;
+    --cor-bordo: #8E2424;
+    --cor-cinza-escuro: #101828;
+    --cor-de-fundo: rgba(142, 36, 36, 0.05);
+    --cor-branca: #FFFFFF;
+    --cor-da--borda: #EAECF0;
+    --cor-preta: #000000;
+    --cor-de-fundo-cinza: #F9FAFB;
+    --cor-cinza-claro: #98A2B3;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}

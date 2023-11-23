@@ -1,0 +1,29 @@
+.metricas {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0 112px 0 112px;
+}
+
+.metricas_container {
+    margin-left: 3em;
+    padding:0 2em 0 2em;
+}
+
+.metricas_valor {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-bordo);
+    margin-bottom: 12px;
+}
+
+.metricas_titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-cinza-escuro);
+    margin-bottom: 8px;
+}
+
+.metricas_paragrafo {
+    font-size: 16px;
+    font-weight: 400;
+}

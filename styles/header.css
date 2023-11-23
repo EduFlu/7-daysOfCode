@@ -1,0 +1,37 @@
+.menu, 
+.menu_link {
+    display: flex;
+}
+
+
+
+.menu {
+    justify-content: space-between;
+    margin: 26px 112px 26px 112px;
+}
+
+.menu_link {
+    align-items: center;
+}
+
+.logo {
+    margin-right: 112px;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: 70;
+    color: var(--cor-cinza);
+    margin-right: 32px;
+}
+
+
+.buttom {
+    padding: 12px 18px 12px 18px;
+    color: var(--cor-branca);
+    background-color: var(--cor-bordo);
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 400;
+}
+

@@ -1,0 +1,35 @@
+.container_depoimento {
+    background-color: var(--cor-de-fundo);
+    margin: 96px 112px 96px 112px;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.depoimento_titulo {
+    padding: 64px 64px 30px 0;
+}
+
+.vagas_titulo {
+    margin: 0 15rem 0 15rem;
+}
+
+.depoimento {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--cor-bordo);
+    margin-bottom: 16px;
+}
+
+.avatar {
+    padding-bottom: 64px;
+}
+
+.depoimento_nome {
+    font-weight: 500;
+    color: var(--cor-cinza-escuro);
+    margin: 16px 0 4px 0;
+}
+
+.depoimento_funcao {
+    font-size: 14px;
+}

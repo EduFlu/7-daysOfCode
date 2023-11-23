@@ -1,0 +1,26 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 96px 324px 96px 324px
+}
+
+.banner_texto {
+    color: var(--cor-bordo);
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.banner_titulo {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 35px;
+}
+
+.banner_paragrafo {
+    font-size: 20px;
+    font-weight: 70;
+    margin: 0 220px 0 220px;
+    text-align: center;
+    color: var(--cor-cinza);
+}

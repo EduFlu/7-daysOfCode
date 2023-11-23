@@ -1,0 +1,25 @@
+.container_titulo {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 32px 26rem 32px 26rem;
+}
+
+.container_jobs {
+    border: solid 1px;
+    border-radius: 16px;
+    border-color: var(--cor-da--borda);
+    padding: 24px 24px 28px 24px;
+    margin: 0 26rem 24px 26rem;
+}
+
+.container_paragrafo {
+    display: flex;
+}
+
+.metricas_titulo {
+    margin-bottom: 32px;
+}
+
+.metricas_paragrafo {
+    margin-right: 24px;
+}

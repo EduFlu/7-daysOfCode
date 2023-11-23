@@ -1,0 +1,27 @@
+.container_vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 196px 0 64px 0;
+}
+
+.botao {
+    font-size: 14px;
+    font-weight: 600;
+    background-color: var(--cor-de-fundo);
+    padding: 4px 12px 4px 12px;
+    border-radius: 16px;
+    text-decoration: none;
+    color: var(--cor-bordo);
+    margin-bottom: 24px;
+}
+
+.vagas_titulo {
+    font-size: 36px;
+    font-weight: 700;
+    margin: 16px 0 28px 0;
+}
+
+.image {
+    margin-top: 64px;
+}
